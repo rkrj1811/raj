@@ -9,7 +9,7 @@
 <body>
 <?php
 
-echo "arshdeep singh and prince";
+echo "prince";
 ?>
  
 </body>
